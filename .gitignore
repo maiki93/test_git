@@ -1,0 +1,11 @@
+# aucun fichier, resursive ok
+*.txt
+*.a
+*.o
+# except this file
+!notes_dev.txt
+# ignore ile fichier TODO à la racine du projet
+/TODO
+# ignore tous les repertoire build, racine et in subdirectory
+build/
+
