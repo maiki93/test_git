@@ -12,4 +12,4 @@ qq'un pushé le README, donc sur origin/amin
 
 J'ai terminé mon dev, sur  branch feature of course, and merged into my local main
 
-qq un a pushé  new stuffs
+qq un a pushé  new stuffs. en meme temps ca continue sur main
