@@ -16,3 +16,5 @@ qq un a pushé  new stuffs. en meme temps ca continue sur main
 Je travaille sur la 2nde feature encore meilleure, rajoute code, ca y est terminé !!
 
 working but urgence
+
+test ssh connection
