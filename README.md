@@ -8,3 +8,4 @@ un truc
 et un autre
 
 travail sur main local
+qq'un pushé le README, donc sur origin/amin
